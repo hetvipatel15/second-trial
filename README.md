@@ -1,3 +1,4 @@
-# second-trial
+# second-trial 
 this is my second repo
-author - hetvi
+author - hetvi hello
+
